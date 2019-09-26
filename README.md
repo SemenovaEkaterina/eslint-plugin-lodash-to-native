@@ -47,8 +47,7 @@ $ npm install -S https://github.com/SemenovaEkaterina/eslint-plugin-lodash-to-na
 
 ## Правила
 
-https://github.com/SemenovaEkaterina/eslint-plugin-lodash-to-native/docs/rules/map.md
-
+[map](docs/rules/map.md)
 
 
 

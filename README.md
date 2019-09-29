@@ -45,6 +45,10 @@ $ npm install -S https://github.com/SemenovaEkaterina/eslint-plugin-lodash-to-na
 }
 ```
 
+## Тесты
+
+`npm run test`
+
 ## Правила
 
 [map](docs/rules/map.md)

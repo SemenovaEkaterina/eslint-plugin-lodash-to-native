@@ -49,6 +49,13 @@ $ npm install -S https://github.com/SemenovaEkaterina/eslint-plugin-lodash-to-na
 
 `npm run test`
 
+## Отдалка
+
+В тестовом проекте в `package.json`:
+
+
+`"eslint-plugin-lodash-to-native": "file:../eslint-plugin-lodash-to-native",`
+
 ## Правила
 
 [map](docs/rules/map.md)
